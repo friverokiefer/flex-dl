@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;1,100;1,500&display=swap');
+
+body{
+    background-color: black;
+    color: white;
+    font-family: "raleway" , sans-serif;
+}
+
+header h1{
+    font-size: 50px;
+    top: 0px;
+    left: 0px;
+    width: 1280px;
+    height: 73px;
+    text-align: center;
+}
+
+header img{
+    top: 73px;
+    left: 0px;
+    width: 1280px;
+    height: 727px;
+}
+
+.order{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    top: 800px;
+    left: 0px;
+    width: 1280px;
+    height: 348px;
+}
+
+.text{
+    text-align: left;
+    opacity: 1;
+    top: 876px;
+    left: 150px;
+    width: 475px;
+    height: 197px;
+}
+
+main img{
+    top: 845px;
+    left: 731px;
+    width: 399px;
+    height: 237px;
+}
+
+.container{
+    background-color: #1E1A13;
+    top: 1141px;
+    left: 0px;
+    width: 1280px;
+    height: 348px;
+}
+
+.container h2{
+    font-size: 40px ;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.flex{
+    padding-top: 30px;
+    font-size: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    top: 800px;
+    left: 0px;
+    width: 1280px;
+    height: 348px;
+}
+
+.gallery{
+    top: 1488px;
+    left: 0px;
+    width: 1280px;
+    height: 348px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.gallery img{
+    padding-top: 70px;
+    top: 1561px;
+    left: 150px;
+    width: 316px;
+    height: 202px; 
+}
+
+footer{
+    padding-top: 20px;
+    font-size: 20px;
+    text-align: center;
+    top: 1835px;
+    left: 0px;
+    width: 1280px;
+    height: 102px;
+    background-color: #1E1A13;
+    text-align: center;
+}
+
+a:hover{
+    color: red;
+
+}
